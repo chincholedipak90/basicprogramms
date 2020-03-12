@@ -16,7 +16,7 @@ public class SwapNumber {
 		
 		System.out.println("After Swap num1= "+num1);
 		System.out.println("After Swap num2= "+num2);
-	
+		System.out.println("test1");
 			
 
 	}
